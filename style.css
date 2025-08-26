@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+
+    gap: 100px;
+}
+
+li {
+    text-decoration: none;
+
+}
+
+a {
+    color: black;
+}
+
+.btn {
+    background-color: red;
+    width: 256px;
+    height: 36px;
+    top: 17px;
+    left: 218px;
+    opacity: 1;
+    border-radius: 12px;
+    color: white;
+    margin-right: 300px;
+}
+
+.brak {
+    display: flex;
+    justify-content: space-between;
+}
+
+.upg {
+    width: 100%;
+    margin-top: 63px;
+}
+
+.width {
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 32.48px;
+    line-height: 40px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.set {
+    width: 235px;
+    height: 391px;
+    top: 576px;
+    left: 24px;
+    opacity: 1;
+    border-radius: 15px;
+    margin-top: 45px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    margin-left: 100px;
+}
+
+h4 {
+    width: 103.33000183105469px;
+    height: 28px;
+    top: 299px;
+    left: 12px;
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 18.28px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    margin-left: 15px;
+}
+
+
+
+h5 {
+    color: red;
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 18.28px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    margin-left: 15px;
+
+}
+
+.plus {
+    width: 40px;
+    height: 40px;
+    opacity: 1px;
+    background-color: red;
+    margin-left: 190px;
+    margin-top: 50px;
+}
+
+.bet {
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.koko {
+    position: relative;
+    left: 60px;
+    bottom: 27px;
+}
+
+.just {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+
+.cruzer {
+    background-color: red;
+    border: none;
+
+}
+
+.cruzer {
+    transition: 2s;
+    background-color: red;
+}
